@@ -209,4 +209,4 @@ ax.set_xlabel('X_axis')
 ax.set_ylabel('Y_axis')
 
 plt.savefig('Best Path.png', dpi=500, bbox_inches='tight')
-plt.close()
+plt.show()
